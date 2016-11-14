@@ -1,0 +1,69 @@
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\animations\startup.txt
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\bundles\splash.txt
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\images\fdFile.png
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\images\fdFolder.png
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\sounds\error.wav
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\SwinGame.icns
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\Resources\SwinGame.ico
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\MyGame.exe
+C:\Users\NhNg\Desktop\ProjectTemplate\bin\Debug\SwinGame.dll
+C:\Users\NhNg\Desktop\ProjectTemplate\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\animations\startup.txt
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\bundles\splash.txt
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\images\fdFile.png
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\images\fdFolder.png
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\sounds\error.wav
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\SwinGame.icns
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\Resources\SwinGame.ico
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\MyGame.exe
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\bin\Debug\SwinGame.dll
+C:\Users\NhNg\Desktop\ProjectTemplate - Copy\obj\x86\Debug-Windows\MyGame.exe
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\animations\startup.txt
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\bundles\FileDialog.txt
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\bundles\splash.txt
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\fonts\arial.ttf
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\fonts\cour.ttf
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\images\fdFile.png
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\images\fdFolder.png
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\images\FileDialog_Active.png
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\images\FileDialog_Background.png
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\images\FileDialog_Inactive.png
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\images\FileDialog_Scroll.png
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\images\Swinburne.jpg
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\images\SwinGameAni.png
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\panels\FileDialog.txt
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\sounds\error.wav
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\sounds\SwinGameStart.wav
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\SwinGame.icns
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\Resources\SwinGame.ico
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\MyGame.exe
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\bin\Debug\SwinGame.dll
+E:\Swinburne\Year 2 - Semester 1\COS20007 Object-Oriented Programming\Lab\10.3HD\ProjectTemplate - Copy\obj\x86\Debug-Windows\MyGame.exe

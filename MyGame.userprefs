@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="MyGame.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug-Windows|x86" />
+  <MonoDevelop.Ide.ItemProperties.MyGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src\ProgramHandler.cs">
+    <Files>
+      <File FileName="src\Main.cs" Line="23" Column="1" />
+      <File FileName="src\ProgramHandler.cs" Line="43" Column="89" />
+      <File FileName="src\SendMsgThread.cs" Line="27" Column="4" />
+      <File FileName="src\ReceiveMsgThread.cs" Line="29" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
